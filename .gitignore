@@ -1,0 +1,19 @@
+# Project exclude paths
+/changgou-parent/changgou-common/target/
+/changgou-parent/changgou-eureka/target/
+/changgou-parent/changgou-gateway/changgou-gateway-web/target/
+/changgou-parent/changgou-service/changgou-service-content/target/
+/changgou-parent/changgou-service/changgou-service-file/target/
+/changgou-parent/changgou-service/changgou-service-goods/target/
+/changgou-parent/changgou-service/changgou-service-order/target/
+/changgou-parent/changgou-service/changgou-service-pay/target/
+/changgou-parent/changgou-service/changgou-service-seckill/target/
+/changgou-parent/changgou-service/changgou-service-user/target/
+/changgou-parent/changgou-service-api/changgou-service-content-api/target/
+/changgou-parent/changgou-service-api/changgou-service-goods-api/target/
+/changgou-parent/changgou-service-api/changgou-service-order-api/target/
+/changgou-parent/changgou-service-api/changgou-service-seckill-api/target/
+/changgou-parent/changgou-service-api/changgou-service-user-api/target/
+/changgou-parent/changgou-user-oauth/target/
+/code-template/target/
+/itheima-springboot-thymeleaf/target/
